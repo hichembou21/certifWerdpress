@@ -1,0 +1,166 @@
+# Translation of Bazz CallBack Widget in Russian
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-13 18:04:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: 4.5.x\n"
+
+#: bazz-callback-widget.php:113
+msgid "EN"
+msgstr "RU"
+
+#: bazz-callback-widget.php:43
+msgid "The loading is extremely high, we will call back to you in the nearest future. Thanks!"
+msgstr "Нагрузка крайне высокая, мы перезвоним Вам в ближайшее время. Спасибо!"
+
+#: bazz-callback-widget.php:44
+msgid "Unfortunately, we don't work for now. We will call back to you tomorrow! Thanks!"
+msgstr "К сожалению, сейчас мы не работаем! Мы перезвоним Вам завтра! Спасибо!"
+
+#: bazz-callback-widget.php:132
+msgid "The client wasn't introduced"
+msgstr "Клиент не представился"
+
+#: bazz-callback-widget.php:146
+msgid "[FROM BAZZ WIDGET]"
+msgstr "[ИЗ Bazz CallBack ВИДЖЕТА]"
+
+#: bazz-callback-widget.php:147
+msgid "Phone"
+msgstr "Телефон"
+
+#: bazz-callback-widget.php:171
+msgid "CALL NOW"
+msgstr "Заказать звонок"
+
+#: bazz-callback-widget.php:177
+msgid "We will call "
+msgstr "Перезвоним "
+
+#: bazz-callback-widget.php:180
+msgid "back in the nearest future!"
+msgstr "в ближайшее время!"
+
+#: bazz-callback-widget.php:178
+msgid "you"
+msgstr "Вам"
+
+#: bazz-callback-widget.php:182
+msgid "in"
+msgstr "за"
+
+#: bazz-callback-widget.php:183
+msgid "seconds!"
+msgstr "секунд!"
+
+#: bazz-callback-widget.php:188
+msgid "Call me!"
+msgstr "Жду звонка!"
+
+#: bazz-callback-widget.php:187
+msgid "phone here"
+msgstr "Номер телефона"
+
+#: bazz-callback-widget.php:191
+msgid "Introduce youself, and we'll have been calling you by name"
+msgstr "Представьтесь, и мы будем обращаться по имени"
+
+#: bazz-callback-widget.php:192
+msgid "name here"
+msgstr "Введите Ваше имя"
+
+#: bazz-callback-widget.php:212
+msgid "Settings"
+msgstr "Настройки"
+
+#: bazz-callback-widget.php:224
+msgid "Hi there! This is settings of the"
+msgstr "Привет! Это настройки плагина"
+
+#: bazz-callback-widget.php:225
+msgid "Change the parameters to the your discretion."
+msgstr "Изменяем параметры на свое усмотрение."
+
+#: bazz-callback-widget.php:230
+msgid "Color scheme:"
+msgstr "Выберите цвет:"
+
+#: bazz-callback-widget.php:233
+msgid "To send the message to:"
+msgstr "Отправлять письмо на:"
+
+#: bazz-callback-widget.php:238
+msgid "Specify working time:"
+msgstr "Укажите время работы:"
+
+#: bazz-callback-widget.php:260
+msgid "The working day with"
+msgstr "Рабочий день с"
+
+#: bazz-callback-widget.php:261
+msgid "h to"
+msgstr "ч. до"
+
+#: bazz-callback-widget.php:262
+msgid h"
+msgstr "ч."
+
+#: bazz-callback-widget.php:263
+msgid "*The time zone is using WordPress settings"
+msgstr "*Часовой пояс берется из настроек WordPress"
+
+#: bazz-callback-widget.php:266
+msgid "The countdown will be started on"
+msgstr "Таймер обратного отсчета будет запущен на"
+
+#: bazz-callback-widget.php:266
+msgid "seconds."
+msgstr "секунд."
+
+#: bazz-callback-widget.php:267
+msgid "Set 0 and countdown functionality will be disabled"
+msgstr "Установите 0 и функция обратного отсчета будет отключена"
+
+#: bazz-callback-widget.php:270
+msgid "The text in working hours (afternoon):"
+msgstr "Текст-результат в рабочее время (днем):"
+
+#: bazz-callback-widget.php:274
+msgid "The text in NOT working hours (night):"
+msgstr "Текст-результат в НЕ рабочее время (ночью):"
+
+#: bazz-callback-widget.php:278
+msgid "Your clients are from Russia?"
+msgstr "Клиенты из России? (подставится маска телефона +7)"
+
+#: bazz-callback-widget.php:280
+msgid "Yes"
+msgstr "Да"
+
+#: bazz-callback-widget.php:281
+msgid "No"
+msgstr "Нет"
+
+#: bazz-callback-widget.php:285
+msgid "Distance from the window bottom"
+msgstr "Расстояние от низа окна"
+
+#: bazz-callback-widget.php:289
+msgid "Show on the left/right side"
+msgstr "Отображать слева/справа"
+
+#: bazz-callback-widget.php:291
+msgid "Left"
+msgstr "Слева"
+
+#: bazz-callback-widget.php:292
+msgid "Right"
+msgstr "Справа"
+
+#: bazz-callback-widget.php:296
+msgid "Save"
+msgstr "Сохранить"

@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bazz CallBack Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-11 07:50+0000\n"
+"PO-Revision-Date: 2017-10-11 08:08+0000\n"
+"Last-Translator: Viktor Ievlev <bazz@bk.ru>\n"
+"Language-Team: Persian\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: bazz-callback-widget.php:48
+msgid ""
+"The loading is extremely high, we will call back to you in the nearest "
+"future. Thanks!"
+msgstr "بارگیری بسیار زیاد است، ما در نزدیکترین زمان به شما پاسخ خواهیم داد"
+
+#: bazz-callback-widget.php:49
+msgid ""
+"Unfortunately, we don't work for now. We will call back to you tomorrow! "
+"Thanks!"
+msgstr "متاسفانه زمان كار ما به اتمام رسيده است,فردا با شما تماس خواهيم گرفت"
+
+#: bazz-callback-widget.php:122
+msgid "EN"
+msgstr "IR"
+
+#: bazz-callback-widget.php:146
+msgid "The client wasn't introduced"
+msgstr "مشتری معرفی نشده است"
+
+#: bazz-callback-widget.php:161
+msgid "[FROM BAZZ WIDGET]"
+msgstr ""
+
+#: bazz-callback-widget.php:162
+msgid "Phone"
+msgstr "تلفن"
+
+#: bazz-callback-widget.php:163
+msgid "Name"
+msgstr "نام"
+
+#: bazz-callback-widget.php:201
+msgid "CALL NOW"
+msgstr "تماس بگير"
+
+#: bazz-callback-widget.php:207
+msgid "We will call "
+msgstr "ما در آینده نزدیک "
+
+#: bazz-callback-widget.php:209
+msgid "you"
+msgstr "با شما"
+
+#: bazz-callback-widget.php:211
+msgid "back in the nearest future!"
+msgstr " تماس خواهیم گرفت"
+
+#: bazz-callback-widget.php:213
+msgid "in"
+msgstr "از طریق"
+
+#: bazz-callback-widget.php:215
+msgid "seconds!"
+msgstr "ثانیه"
+
+#: bazz-callback-widget.php:220
+msgid "phone here"
+msgstr "درج تلفن"
+
+#: bazz-callback-widget.php:222
+msgid "Call me!"
+msgstr "تماس بگير"
+
+#: bazz-callback-widget.php:226
+msgid "Introduce youself, and we'll have been calling you by name"
+msgstr "خودتان را معرفی کنید و ما با نام شما تماس بگيريم"
+
+#: bazz-callback-widget.php:228
+msgid "name here"
+msgstr "درج نام"
+
+#: bazz-callback-widget.php:241
+msgid "Settings"
+msgstr "تنظيمات"
+
+#: bazz-callback-widget.php:272
+msgid "Hi there! This is settings of the"
+msgstr "سلام!این محل تنظیمات...است"
+
+#: bazz-callback-widget.php:273
+msgid "Change the parameters to the your discretion."
+msgstr "پارامترها را به اختیار خود تغییر دهید"
+
+#: bazz-callback-widget.php:278
+msgid "Color scheme:"
+msgstr "انتخاب رنگ"
+
+#: bazz-callback-widget.php:283
+msgid "To send the message to:"
+msgstr "برای ارسال پیام به:"
+
+#: bazz-callback-widget.php:292
+msgid "Specify working time:"
+msgstr "تعیین زمان کار"
+
+#: bazz-callback-widget.php:319
+msgid "The working day with"
+msgstr "زمان كار از ساعت"
+
+#: bazz-callback-widget.php:321
+msgid "h to"
+msgstr " الي "
+
+#: bazz-callback-widget.php:323
+msgid "h"
+msgstr "."
+
+#: bazz-callback-widget.php:324
+msgid "*The time zone is using WordPress settings."
+msgstr "منطقه زمانی از تنظیمات وردپرس استفاده می کند"
+
+#: bazz-callback-widget.php:325
+msgid "For now is "
+msgstr "در حال حاضر "
+
+#: bazz-callback-widget.php:329
+msgid "The countdown will be started on"
+msgstr "شمارش معکوس در آغاز خواهد شد"
+
+#: bazz-callback-widget.php:331
+msgid "seconds."
+msgstr " ثانیه"
+
+#: bazz-callback-widget.php:333
+msgid "Set 0 and countdown functionality will be disabled"
+msgstr "تنظیم 0 و عملکرد شمارش معکوس غیر فعال خواهد شد"
+
+#: bazz-callback-widget.php:336
+msgid "The text in working hours (afternoon):"
+msgstr "متن در ساعت کاری (بعد از ظهر):"
+
+#: bazz-callback-widget.php:340
+msgid "The text in NOT working hours (night):"
+msgstr "متن در ساعت غير کاري (شب):"
+
+#: bazz-callback-widget.php:345
+msgid "Your clients are from Russia?"
+msgstr ""
+
+#: bazz-callback-widget.php:349
+msgid "Yes"
+msgstr "بله"
+
+#: bazz-callback-widget.php:352
+msgid "No"
+msgstr "نه"
+
+#: bazz-callback-widget.php:357
+msgid "Distance from the window bottom"
+msgstr "فاصله از پایین پنجره"
+
+#: bazz-callback-widget.php:362
+msgid "Show on the left/right side"
+msgstr "نمایش در سمت چپ / راست"
+
+#: bazz-callback-widget.php:366
+msgid "Left"
+msgstr "چپ"
+
+#: bazz-callback-widget.php:369
+msgid "Right"
+msgstr "راست"
+
+#: bazz-callback-widget.php:373
+msgid "Save"
+msgstr "ذخيره"
+
+#. Name of the plugin
+msgid "Bazz CallBack Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin makes a simple widget for callback on your website."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://viktor-web.ru"
+msgstr ""
+
+#. Author of the plugin
+msgid "Viktor Ievlev"
+msgstr ""

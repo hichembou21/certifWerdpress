@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CF7 Polylang Extension v2.0\n"
+"POT-Creation-Date: 2018-02-23 12:16+0530\n"
+"PO-Revision-Date: 2018-02-23 12:46+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: public\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: admin\n"
+"X-Poedit-SearchPath-4: cf7-polylang.php\n"
+"X-Poedit-SearchPathExcluded-0: languages2\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: admin/class-cf7-polylang-admin.php:138
+msgid "settings"
+msgstr "configuraciones"
+
+#: admin/class-cf7-polylang-admin.php:141
+msgid "Warning: save contact forms translation in Polylang "
+msgstr "Cuidado: guardar la traducción de formularios de contacto en la configuraciones de Polylang"
+
+# This is coming from Contact Form 7 plugin
+# msgid "Your Name"
+# msgstr ""
+#: admin/partials/cf7-default-form.php:58
+#: admin/partials/cf7-default-form.php:59
+msgid "enter your full name"
+msgstr "ingrese su nombre completo"
+
+# This is coming from Contact Form 7 plugin
+# msgid "Your Email"
+# msgstr ""
+#: admin/partials/cf7-default-form.php:60
+#: admin/partials/cf7-default-form.php:61
+msgid "enter a valid email"
+msgstr "ingrese un correo electrónico válido"
+
+# This is coming from Contact Form 7 plugin
+# msgid "Send"
+# msgstr ""
+# This is coming from Contact Form 7 plugin
+# msgid "Subject"
+# msgstr ""
+#: admin/partials/cf7-default-form.php:62
+#: admin/partials/cf7-default-form.php:63
+#: admin/partials/cf7-default-form.php:64
+msgid "the topic of your message"
+msgstr "el tema de tu mensaje"
+
+# This is coming from Contact Form 7 plugin
+# msgid "Your Message"
+# msgstr ""
+#: admin/partials/cf7-default-form.php:65
+#: admin/partials/cf7-default-form.php:66
+msgid "enter a brief message"
+msgstr "ingrese un breve mensaje"

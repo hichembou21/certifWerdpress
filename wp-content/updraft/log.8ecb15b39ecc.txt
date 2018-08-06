@@ -1,0 +1,280 @@
+0000.000 (0) Opened log file at time: Fri, 13 Jul 2018 08:25:11 +0000 on http://monsupersite.com
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 5.0-alpha-43436 PHP: 7.0.30-0ubuntu0.16.04.1 (cgi-fcgi, Linux simplon-ispconfig 4.4.0-127-generic #153-Ubuntu SMP Sat May 19 10:58:46 UTC 2018 x86_64) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache/2.4.18 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.3M | 4M) multisite: N openssl: OpenSSL 1.0.2g  1 Mar 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 90517.6 MB
+0000.021 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.027 (0) Semaphore (fd, wp_options) being initialised
+0000.046 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.071 (0) Set semaphore last lock (fd) time to 2018-07-13 08:25:11
+0000.077 (0) Semaphore lock (fd) complete
+0000.107 (0) Backup run: resumption=0, nonce=8ecb15b39ecc, begun at=1531470311 (0s ago), job type=backup
+0000.131 (0) Scheduling a resumption (1) after 300 seconds (1531470611) in case this run gets aborted
+0000.177 (0) Checking if we have a zip executable available
+0000.191 (0) Creation of backups of directories: beginning
+0000.215 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.384 (0) Total entities for the zip file: 442 directories, 3945 files (0 skipped as non-modified), 54.7 MB
+0001.424 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.456 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.489 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.523 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.555 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.563 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10 MB, 3945 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0004.086 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 600 files added (on-disk size: 4373.9 KB)
+0004.128 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 700 files added (on-disk size: 4373.9 KB)
+0004.170 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 800 files added (on-disk size: 4373.9 KB)
+0004.210 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 900 files added (on-disk size: 4373.9 KB)
+0004.243 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1000 files added (on-disk size: 4373.9 KB)
+0004.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.9 MB, 3945 files batched, 501 (1002) added so far); re-opening (prior size: 4373.9 KB)
+0004.903 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1100 files added (on-disk size: 7360.6 KB)
+0004.941 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1200 files added (on-disk size: 7360.6 KB)
+0004.978 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1300 files added (on-disk size: 7360.6 KB)
+0005.016 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1400 files added (on-disk size: 7360.6 KB)
+0005.052 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1500 files added (on-disk size: 7360.6 KB)
+0005.060 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.1 MB, 3945 files batched, 501 (1503) added so far); re-opening (prior size: 7360.6 KB)
+0008.092 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1600 files added (on-disk size: 10624.1 KB)
+0008.142 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1700 files added (on-disk size: 10624.1 KB)
+0008.190 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1800 files added (on-disk size: 10624.1 KB)
+0008.246 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 1900 files added (on-disk size: 10624.1 KB)
+0008.316 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2000 files added (on-disk size: 10624.1 KB)
+0008.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.9 MB, 3945 files batched, 501 (2004) added so far); re-opening (prior size: 10624.1 KB)
+0010.021 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2100 files added (on-disk size: 15007.8 KB)
+0010.102 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2200 files added (on-disk size: 15007.8 KB)
+0010.163 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2300 files added (on-disk size: 15007.8 KB)
+0010.215 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2400 files added (on-disk size: 15007.8 KB)
+0010.265 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2500 files added (on-disk size: 15007.8 KB)
+0010.278 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.3 MB, 3945 files batched, 501 (2505) added so far); re-opening (prior size: 15007.8 KB)
+0010.530 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2600 files added (on-disk size: 15546.4 KB)
+0010.581 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2700 files added (on-disk size: 15546.4 KB)
+0010.625 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2800 files added (on-disk size: 15546.4 KB)
+0010.672 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 2900 files added (on-disk size: 15546.4 KB)
+0010.728 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3000 files added (on-disk size: 15546.4 KB)
+0010.740 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.2 MB, 3945 files batched, 501 (3006) added so far); re-opening (prior size: 15546.4 KB)
+0012.003 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3100 files added (on-disk size: 16642.9 KB)
+0012.048 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3200 files added (on-disk size: 16642.9 KB)
+0012.090 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3300 files added (on-disk size: 16642.9 KB)
+0012.141 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3400 files added (on-disk size: 16642.9 KB)
+0012.189 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3500 files added (on-disk size: 16642.9 KB)
+0012.201 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 3945 files batched, 501 (3507) added so far); re-opening (prior size: 16642.9 KB)
+0014.715 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3600 files added (on-disk size: 18824.5 KB)
+0014.758 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3700 files added (on-disk size: 18824.5 KB)
+0014.807 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3800 files added (on-disk size: 18824.5 KB)
+0014.852 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip.tmp: 3900 files added (on-disk size: 18824.5 KB)
+0016.695 (0) Created plugins zip (0) - 20580.5 KB in 16.5 s (1249.9 KB/s) (sha1: dd109ed43aabc8ab5995ee63d8ef88df9e0f8b74, sha256: a1c9c6d2c9dc9b0dc3d89e5faeb31f0db5a1b5716b0e7d1234212fb46c28a949)
+0016.711 (0) Beginning creation of dump of themes (split every: 400 MB)
+0017.079 (0) Total entities for the zip file: 189 directories, 1090 files (0 skipped as non-modified), 28.3 MB
+0017.117 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.175 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.217 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0017.255 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0017.298 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0017.306 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.5 MB, 1090 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0020.126 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 600 files added (on-disk size: 5783 KB)
+0020.168 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 700 files added (on-disk size: 5783 KB)
+0020.202 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 800 files added (on-disk size: 5783 KB)
+0020.233 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 900 files added (on-disk size: 5783 KB)
+0020.263 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip.tmp: 1000 files added (on-disk size: 5783 KB)
+0020.271 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.5 MB, 1090 files batched, 501 (1002) added so far); re-opening (prior size: 5783 KB)
+0023.291 (0) Created themes zip (0) - 12595.7 KB in 6.6 s (1916.6 KB/s) (sha1: 182b89294481b642b258fe6c8c133209e6816ddc, sha256: 7023561f9259ce4245d199cf759509e85ad3f01f251254d796b7d0595d79b51c)
+0023.306 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0023.312 (0) Looking for candidates to back up in: /var/www/clients/client0/web14/web/wp-content/uploads
+0023.318 (0) finding files: et_temp: adding to list (1)
+0023.324 (0) finding files: bws-custom-code: adding to list (2)
+0023.330 (0) finding files: mc4wp-debug-log.php: adding to list (3)
+0023.337 (0) finding files: 2018: adding to list (4)
+0023.344 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0023.413 (0) Total entities for the zip file: 4 directories, 195 files (0 skipped as non-modified), 13.5 MB
+0023.443 (0) Zip: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0024.584 (0) Created uploads zip (0) - 13828.9 KB in 1.2 s (11223.5 KB/s) (sha1: 874753dbaaa4d000160d9214be7dc89eb3fc3bda, sha256: 33d2af7e14318c8e0f13e97ecab92cce7ee8f072126dbaa7569221faeaaaa005)
+0024.599 (0) Beginning backup of other directories found in the content directory (index: 0)
+0024.607 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0024.613 (0) Looking for candidates to back up in: /var/www/clients/client0/web14/web/wp-content
+0024.619 (0) finding files: upgrade: skipping: excluded by options
+0024.626 (0) finding files: plugins: skipping: this is the plugins directory
+0024.632 (0) finding files: languages: adding to list (1)
+0024.637 (0) finding files: wflogs: adding to list (2)
+0024.644 (0) finding files: updraft: skipping: this is the updraft directory
+0024.650 (0) finding files: themes: skipping: this is the themes directory
+0024.656 (0) finding files: index.php: adding to list (3)
+0024.663 (0) finding files: cache: skipping: excluded by options
+0024.670 (0) finding files: uploads: skipping: this is the uploads directory
+0024.712 (0) Total entities for the zip file: 4 directories, 86 files (0 skipped as non-modified), 10.1 MB
+0028.757 (0) Created others zip (0) - 3584.7 KB in 4.1 s (879.3 KB/s) (sha1: 2e67db9ad5b1558cf41d37d2b1a38a29370b7236, sha256: 3a2a27a4196a12270df18a69cb3e4fcd121e097e0c98b676d1ad5d71bfd18ac3)
+0028.783 (0) Saving backup status to database (elements: 8)
+0028.802 (0) Beginning creation of database dump (WordPress DB)
+0028.837 (0) Table wp_options: Total expected rows (approximate): 236
+0028.857 (0) Table wp_options: Total rows added: 232 in 0.01 seconds
+0028.864 (0) Table wp_options: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_options.table.gz - 53.5 KB)
+0028.885 (0) Table wp_users: Total expected rows (approximate): 0
+0028.893 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0028.899 (0) Table wp_users: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_users.table.gz - 0.5 KB)
+0028.918 (0) Table wp_usermeta: Total expected rows (approximate): 26
+0028.927 (0) Table wp_usermeta: Total rows added: 28 in 0.00 seconds
+0028.939 (0) Table wp_usermeta: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_usermeta.table.gz - 1.4 KB)
+0028.974 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0028.987 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0028.998 (0) Table wp_commentmeta: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0029.034 (0) Table wp_comments: Total expected rows (approximate): 0
+0029.048 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0029.058 (0) Table wp_comments: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_comments.table.gz - 0.8 KB)
+0029.094 (0) Table wp_links: Total expected rows (approximate): 0
+0029.107 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0029.118 (0) Table wp_links: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_links.table.gz - 0.4 KB)
+0029.154 (0) Table wp_postmeta: Total expected rows (approximate): 611
+0029.173 (0) Table wp_postmeta: Total rows added: 624 in 0.01 seconds
+0029.181 (0) Table wp_postmeta: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_postmeta.table.gz - 14.9 KB)
+0029.222 (0) Table wp_posts: Total expected rows (approximate): 195
+0029.267 (0) Table wp_posts: Total rows added: 233 in 0.03 seconds
+0029.275 (0) Table wp_posts: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_posts.table.gz - 61.5 KB)
+0029.297 (0) Table wp_term_relationships: Total expected rows (approximate): 63
+0029.306 (0) Table wp_term_relationships: Total rows added: 63 in 0.00 seconds
+0029.312 (0) Table wp_term_relationships: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0029.342 (0) Table wp_term_taxonomy: Total expected rows (approximate): 19
+0029.355 (0) Table wp_term_taxonomy: Total rows added: 19 in 0.00 seconds
+0029.366 (0) Table wp_term_taxonomy: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0029.402 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0029.415 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0029.426 (0) Table wp_termmeta: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_termmeta.table.gz - 0.4 KB)
+0029.463 (0) Table wp_terms: Total expected rows (approximate): 19
+0029.475 (0) Table wp_terms: Total rows added: 19 in 0.00 seconds
+0029.486 (0) Table wp_terms: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_terms.table.gz - 0.7 KB)
+0029.524 (0) Table wp_gglcptch_whitelist: Total expected rows (approximate): 0
+0029.535 (0) Table wp_gglcptch_whitelist: Total rows added: 0 in 0.00 seconds
+0029.546 (0) Table wp_gglcptch_whitelist: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_gglcptch_whitelist.table.gz - 0.3 KB)
+0029.582 (0) Table wp_wfBadLeechers: Total expected rows (approximate): 0
+0029.595 (0) Table wp_wfBadLeechers: Total rows added: 0 in 0.00 seconds
+0029.605 (0) Table wp_wfBadLeechers: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBadLeechers.table.gz - 0.3 KB)
+0029.642 (0) Table wp_wfBlockedCommentLog: Total expected rows (approximate): 0
+0029.654 (0) Table wp_wfBlockedCommentLog: Total rows added: 0 in 0.00 seconds
+0029.665 (0) Table wp_wfBlockedCommentLog: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBlockedCommentLog.table.gz - 0.3 KB)
+0029.702 (0) Table wp_wfBlockedIPLog: Total expected rows (approximate): 0
+0029.721 (0) Table wp_wfBlockedIPLog: Total rows added: 0 in 0.00 seconds
+0029.744 (0) Table wp_wfBlockedIPLog: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBlockedIPLog.table.gz - 0.3 KB)
+0029.786 (0) Table wp_wfBlocks7: Total expected rows (approximate): 0
+0029.799 (0) Table wp_wfBlocks7: Total rows added: 0 in 0.00 seconds
+0029.810 (0) Table wp_wfBlocks7: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBlocks7.table.gz - 0.4 KB)
+0029.847 (0) Table wp_wfConfig: Total expected rows (approximate): 192
+0029.862 (0) Table wp_wfConfig: Total rows added: 198 in 0.00 seconds
+0029.870 (0) Table wp_wfConfig: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfConfig.table.gz - 3.9 KB)
+0029.907 (0) Table wp_wfCrawlers: Total expected rows (approximate): 0
+0029.919 (0) Table wp_wfCrawlers: Total rows added: 0 in 0.00 seconds
+0029.931 (0) Table wp_wfCrawlers: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfCrawlers.table.gz - 0.3 KB)
+0029.966 (0) Table wp_wfFileChanges: Total expected rows (approximate): 0
+0029.979 (0) Table wp_wfFileChanges: Total rows added: 0 in 0.00 seconds
+0029.995 (0) Table wp_wfFileChanges: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfFileChanges.table.gz - 0.3 KB)
+0030.026 (0) Table wp_wfFileMods: Total expected rows (approximate): 0
+0030.039 (0) Table wp_wfFileMods: Total rows added: 0 in 0.00 seconds
+0030.050 (0) Table wp_wfFileMods: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfFileMods.table.gz - 0.4 KB)
+0030.087 (0) Table wp_wfHits: Total expected rows (approximate): 0
+0030.098 (0) Table wp_wfHits: Total rows added: 0 in 0.00 seconds
+0030.110 (0) Table wp_wfHits: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfHits.table.gz - 0.4 KB)
+0030.146 (0) Table wp_wfHoover: Total expected rows (approximate): 0
+0030.158 (0) Table wp_wfHoover: Total rows added: 0 in 0.00 seconds
+0030.171 (0) Table wp_wfHoover: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfHoover.table.gz - 0.3 KB)
+0030.206 (0) Table wp_wfIssues: Total expected rows (approximate): 0
+0030.218 (0) Table wp_wfIssues: Total rows added: 0 in 0.00 seconds
+0030.230 (0) Table wp_wfIssues: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfIssues.table.gz - 0.4 KB)
+0030.267 (0) Table wp_wfKnownFileList: Total expected rows (approximate): 0
+0030.278 (0) Table wp_wfKnownFileList: Total rows added: 0 in 0.00 seconds
+0030.290 (0) Table wp_wfKnownFileList: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfKnownFileList.table.gz - 0.3 KB)
+0030.326 (0) Table wp_wfLeechers: Total expected rows (approximate): 0
+0030.340 (0) Table wp_wfLeechers: Total rows added: 0 in 0.00 seconds
+0030.351 (0) Table wp_wfLeechers: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLeechers.table.gz - 0.3 KB)
+0030.388 (0) Table wp_wfLiveTrafficHuman: Total expected rows (approximate): 0
+0030.400 (0) Table wp_wfLiveTrafficHuman: Total rows added: 0 in 0.00 seconds
+0030.411 (0) Table wp_wfLiveTrafficHuman: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLiveTrafficHuman.table.gz - 0.3 KB)
+0030.446 (0) Table wp_wfLocs: Total expected rows (approximate): 0
+0030.459 (0) Table wp_wfLocs: Total rows added: 0 in 0.00 seconds
+0030.470 (0) Table wp_wfLocs: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLocs.table.gz - 0.4 KB)
+0030.506 (0) Table wp_wfLogins: Total expected rows (approximate): 0
+0030.519 (0) Table wp_wfLogins: Total rows added: 0 in 0.00 seconds
+0030.530 (0) Table wp_wfLogins: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLogins.table.gz - 0.4 KB)
+0030.567 (0) Table wp_wfNotifications: Total expected rows (approximate): 0
+0030.579 (0) Table wp_wfNotifications: Total rows added: 0 in 0.00 seconds
+0030.590 (0) Table wp_wfNotifications: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfNotifications.table.gz - 0.3 KB)
+0030.626 (0) Table wp_wfPendingIssues: Total expected rows (approximate): 0
+0030.638 (0) Table wp_wfPendingIssues: Total rows added: 0 in 0.00 seconds
+0030.650 (0) Table wp_wfPendingIssues: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfPendingIssues.table.gz - 0.4 KB)
+0030.686 (0) Table wp_wfReverseCache: Total expected rows (approximate): 0
+0030.699 (0) Table wp_wfReverseCache: Total rows added: 0 in 0.00 seconds
+0030.711 (0) Table wp_wfReverseCache: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfReverseCache.table.gz - 0.3 KB)
+0030.774 (0) Table wp_wfSNIPCache: Total expected rows (approximate): 0
+0030.787 (0) Table wp_wfSNIPCache: Total rows added: 0 in 0.00 seconds
+0030.798 (0) Table wp_wfSNIPCache: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfSNIPCache.table.gz - 0.4 KB)
+0030.835 (0) Table wp_wfScanners: Total expected rows (approximate): 0
+0030.847 (0) Table wp_wfScanners: Total rows added: 0 in 0.00 seconds
+0030.858 (0) Table wp_wfScanners: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfScanners.table.gz - 0.3 KB)
+0030.895 (0) Table wp_wfStatus: Total expected rows (approximate): 0
+0030.907 (0) Table wp_wfStatus: Total rows added: 0 in 0.00 seconds
+0030.918 (0) Table wp_wfStatus: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfStatus.table.gz - 0.3 KB)
+0030.955 (0) Table wp_wfVulnScanners: Total expected rows (approximate): 0
+0030.967 (0) Table wp_wfVulnScanners: Total rows added: 0 in 0.00 seconds
+0030.978 (0) Table wp_wfVulnScanners: finishing file (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfVulnScanners.table.gz - 0.3 KB)
+0031.014 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_options.table.gz (1/36): adding to final database dump
+0031.040 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_users.table.gz (2/36): adding to final database dump
+0031.048 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_usermeta.table.gz (3/36): adding to final database dump
+0031.055 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_commentmeta.table.gz (4/36): adding to final database dump
+0031.062 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_comments.table.gz (5/36): adding to final database dump
+0031.074 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_links.table.gz (6/36): adding to final database dump
+0031.086 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_postmeta.table.gz (7/36): adding to final database dump
+0031.101 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_posts.table.gz (8/36): adding to final database dump
+0031.127 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_term_relationships.table.gz (9/36): adding to final database dump
+0031.135 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_term_taxonomy.table.gz (10/36): adding to final database dump
+0031.141 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_termmeta.table.gz (11/36): adding to final database dump
+0031.146 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_terms.table.gz (12/36): adding to final database dump
+0031.157 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_gglcptch_whitelist.table.gz (13/36): adding to final database dump
+0031.170 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBadLeechers.table.gz (14/36): adding to final database dump
+0031.182 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBlockedCommentLog.table.gz (15/36): adding to final database dump
+0031.194 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBlockedIPLog.table.gz (16/36): adding to final database dump
+0031.207 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfBlocks7.table.gz (17/36): adding to final database dump
+0031.218 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfConfig.table.gz (18/36): adding to final database dump
+0031.231 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfCrawlers.table.gz (19/36): adding to final database dump
+0031.242 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfFileChanges.table.gz (20/36): adding to final database dump
+0031.254 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfFileMods.table.gz (21/36): adding to final database dump
+0031.265 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfHits.table.gz (22/36): adding to final database dump
+0031.277 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfHoover.table.gz (23/36): adding to final database dump
+0031.290 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfIssues.table.gz (24/36): adding to final database dump
+0031.302 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfKnownFileList.table.gz (25/36): adding to final database dump
+0031.314 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLeechers.table.gz (26/36): adding to final database dump
+0031.325 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLiveTrafficHuman.table.gz (27/36): adding to final database dump
+0031.338 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLocs.table.gz (28/36): adding to final database dump
+0031.350 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfLogins.table.gz (29/36): adding to final database dump
+0031.362 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfNotifications.table.gz (30/36): adding to final database dump
+0031.374 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfPendingIssues.table.gz (31/36): adding to final database dump
+0031.385 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfReverseCache.table.gz (32/36): adding to final database dump
+0031.397 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfSNIPCache.table.gz (33/36): adding to final database dump
+0031.410 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfScanners.table.gz (34/36): adding to final database dump
+0031.421 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfStatus.table.gz (35/36): adding to final database dump
+0031.434 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db-table-wp_wfVulnScanners.table.gz (36/36): adding to final database dump
+0031.446 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db.gz: finished writing out complete database file (120 KB)
+0031.495 (0) Total database tables backed up: 36 (backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db.gz, size: 142148, sha256)
+0031.542 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0031.554 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0031.566 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0031.578 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-others.zip: others: This file has not yet been successfully uploaded: will queue
+0031.591 (0) backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db.gz: db: This file has not yet been successfully uploaded: will queue
+0031.602 (0) Saving backup history. Total backup size: 49.5 MB
+0031.625 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0031.661 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0031.674 (0) No remote despatch: user chose no remote backup service
+0031.697 (0) Recording as successfully uploaded: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-plugins.zip (af58e4ae6dc86e4cbb5fc24e1c3ac868)
+0031.770 (0) Recording as successfully uploaded: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-themes.zip (4f1a3e2d36c7acc500e46736be852b3a)
+0031.818 (0) Recording as successfully uploaded: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-uploads.zip (d4e97be8898d99444a03a3874d0dc93f)
+0031.866 (0) Recording as successfully uploaded: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-others.zip (b8032e7e0165e66d0d361e92d445f8d7)
+0031.914 (0) Recording as successfully uploaded: backup_2018-07-13-1025_Formation_Drone_spcialit_pri_8ecb15b39ecc-db.gz (8c9afe5967aa6a9052ba9eb011591ea3)
+0031.962 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0031.975 (0) Number of backup sets in history: 1; groups (db): 1
+0031.985 (0) Examining (for databases) backup set with group_id=0, nonce=8ecb15b39ecc, datestamp=1531470311 (Jul 13 2018 08:25:11)
+0031.998 (0) This backup set is the backup set just made, so will not be deleted.
+0031.998 (0) Number of backup sets in history: 1; groups (files): 1
+0032.010 (0) Examining (for files) backup set with nonce=8ecb15b39ecc, datestamp=1531470311 (Jul 13 2018 08:25:11)
+0032.010 (0) This backup set is the backup set just made, so will not be deleted.
+0032.021 (0) This backup set is the backup set just made, so will not be deleted.
+0032.021 (0) This backup set is the backup set just made, so will not be deleted.
+0032.022 (0) This backup set is the backup set just made, so will not be deleted.
+0032.022 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0032.034 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0032.058 (0) Resume backup (8ecb15b39ecc, 0): finish run
+0032.094 (0) Decremented the semaphore (fd) by 1
+0032.118 (0) Semaphore (fd) unlocked
+0032.130 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0032.167 (0) No email will/can be sent - the user has not configured an email address.
+0032.177 (0) The backup apparently succeeded and is now complete
