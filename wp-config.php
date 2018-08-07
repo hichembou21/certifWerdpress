@@ -26,7 +26,7 @@ define( 'DB_NAME', 'c0dbhichem' );
 define( 'DB_USER', 'c0hichem' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Pxo5SBo!5' );
+define( 'DB_PASSWORD', 'Webmining1982' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -77,7 +77,7 @@ $table_prefix = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true);
 
 /* That's all, stop editing! Happy blogging. */
 

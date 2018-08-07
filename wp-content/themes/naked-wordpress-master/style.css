@@ -804,3 +804,17 @@ html[xmlns] .clearfix {
       line-height: 1.5em;
     }
   }
+
+  .title-film {
+      border: #007998 solid 1px;
+  }
+
+  .table {
+      border: #404040 solid 1px;
+
+  }
+
+  .table tr td {
+      text-align: center;
+      border: #404040 solid 1px;
+  }
